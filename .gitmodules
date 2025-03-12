@@ -1,0 +1,9 @@
+[submodule "pycomlink"]
+	path = pycomlink
+	url = https://github.com/pycomlink/pycomlink.git
+[submodule "pypwsqc"]
+	path = pypwsqc
+	url = https://github.com/OpenSenseAction/pypwsqc.git
+[submodule "poligrain"]
+	path = poligrain
+	url = https://github.com/OpenSenseAction/poligrain.git
